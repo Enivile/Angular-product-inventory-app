@@ -1,0 +1,26 @@
+/* .table{
+} */
+.r1 {
+    margin-left: 1cm;
+    height:16cm;
+}
+.r1-d1{
+    text-align: center;
+    width:60vw;
+    background-image: linear-gradient(rgb(240, 236, 236),rgb(197, 197, 197));
+    padding-bottom: 8cm;
+}
+/* .r1-d1-heading{
+}
+.r1-d1-img{
+} */
+.r1-d2{
+    padding-bottom: 10cm;
+    width:40vw;
+    background-image: linear-gradient(rgb(240, 236, 236),rgb(197, 197, 197));
+    padding-left:0.3cm;
+}
+.sm{
+    width: 20vw;
+    
+}
